@@ -1,0 +1,53 @@
+# Core ML/AI Packages
+torch==2.6.0
+transformers[torch]
+vllm==0.8.5
+numpy
+scipy
+scikit-learn
+
+# API Clients
+openai
+anthropic
+google-generativeai
+
+# Data Processing
+datasets
+pandas
+jsonlines
+rank-bm25
+
+# Utilities
+fire
+tqdm
+requests
+pydantic
+tenacity
+tiktoken
+
+# NLP Tools
+nltk
+sentence-transformers
+spacy==3.7.5
+lxml
+
+# Model Training/Fine-tuning
+peft
+together
+
+# Development
+matplotlib
+tabulate
+termcolor
+PyYAML
+
+# Hugging Face
+huggingface-hub
+tokenizers
+safetensors
+
+# System Dependencies
+filelock
+fsspec
+packaging
+typing_extensions
