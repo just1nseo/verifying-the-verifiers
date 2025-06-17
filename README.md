@@ -1,5 +1,20 @@
 # Verifying the Verifiers: Unveiling Pitfalls and Potentials in Fact Verifiers
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2506.13342">
+    <img src="https://img.shields.io/badge/📝-Paper-blue">
+  </a>
+  <a href="https://huggingface.co/datasets/just1nseo/ClearFacts">
+    <img src="https://img.shields.io/badge/🤗-ClearFacts-white">
+  </a>
+  <a href="https://huggingface.co/datasets/just1nseo/GrayFacts">
+    <img src="https://img.shields.io/badge/🤗-GrayFacts-gray">
+  </a>
+  <a href="https://huggingface.co/just1nseo/ClearCheck-8B">
+    <img src="https://img.shields.io/badge/🤗-Model-orange">
+  </a>
+</p>
+
 **Authors:**
 [Wooseok Seo](https://just1nseo.github.io/) ⭐,
 [Seungju Han](https://seungjuhan.me) ⭐,
