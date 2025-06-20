@@ -71,6 +71,11 @@ We support a total of six model classes. We provide API support for OpenAI model
 
 ## Usage
 
+0. First, run this command in our repo directory.
+```
+export PYTHONPATH="$PWD"
+```
+
 1. For API models, set up keys in `common/shared_config.py`:
 ```python
 OPENAI_API_KEY = 'your_openai_key'
@@ -192,3 +197,14 @@ Ambiguous Supported %: 63.4%
 
 ## Reference
 Our code is built upon this codebase: https://github.com/google-deepmind/long-form-factuality.git. 
+
+## Citation
+If you find this useful, please cite our work!
+```
+@article{seo2025verifying,
+  title={Verifying the Verifiers: Unveiling Pitfalls and Potentials in Fact Verifiers},
+  author={Seo, Wooseok and Han, Seungju and Jung, Jaehun and Newman, Benjamin and Lim, Seungwon and Lee, Seungbeen and Lu, Ximing and Choi, Yejin and Yu, Youngjae},
+  journal={arXiv preprint arXiv:2506.13342},
+  year={2025}
+}
+```
