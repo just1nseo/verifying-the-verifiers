@@ -1,4 +1,4 @@
-# Verifying the Verifiers: Unveiling Pitfalls and Potentials in Fact Verifiers
+# Verifying the Verifiers: Unveiling Pitfalls and Potentials in Fact Verifiers (COLM 2025)
 
 <p align="center">
   <a href="https://arxiv.org/abs/2506.13342">
@@ -27,6 +27,8 @@
 [Youngjae Yu](https://yj-yu.github.io/home/)
 
 ⭐ Co-first authors
+
+🥳 Our work will appear at **COLM 2025**!
 
 We provide an evaluation framework for running [ClearFacts](https://huggingface.co/datasets/just1nseo/ClearFacts) and [GrayFacts](https://huggingface.co/datasets/just1nseo/GrayFacts). We provide both vLLM and API deployment. You can also add your custom dataset for evaluation.
 
